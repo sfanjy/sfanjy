@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Fahd 👋
 
-<!--
-**sfanjy/sfanjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a student passionate about technology and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently exploring software development, Git & GitHub, and problem-solving while building practical experience through volunteering and personal projects.
+
+My goal is to develop both technical and leadership skills that will help me contribute to impactful solutions in the tech industry.
+
+🌱 Currently Learning
+
+- Python
+- C++
+- Git & GitHub
+- Web Development
+- Project Management
+- Team Collaboration
+
+🎯 Goals for 2026
+
+- Build and publish personal projects
+- Contribute to open-source projects
+- Gain hands-on experience in tech communities
+- Strengthen problem-solving skills
+-Grow my professional network
+
+🛠️ Skills
+
+- Communication
+- Teamwork
+- Leadership
+- Organization
+- Problem Solving
+
+
+📈 Current Focus
+
+```text
+Learning > Building > Improving
+
+📫 Connect With Me
+GitHub: https://github.com/sfanjy
+### ✨ Quote
+
+> "Every expert was once a beginner."
