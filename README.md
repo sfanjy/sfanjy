@@ -35,12 +35,9 @@ My goal is to develop both technical and leadership skills that will help me con
 
 
 📈 Current Focus
-
-```text
 Learning > Building > Improving
 
 📫 Connect With Me
 GitHub: https://github.com/sfanjy
-### ✨ Quote
 
-> "Every expert was once a beginner."
+To sum it up "Every expert was once a beginner."
