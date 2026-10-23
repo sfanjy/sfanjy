@@ -38,6 +38,8 @@ My goal is to develop both technical and leadership skills that will help me con
 Learning > Building > Improving
 
 📫 Connect With Me
-GitHub: https://github.com/sfanjy
+Linkedin: www.linkedin.com/in/fahd-sanni-8a4215398
+
+
 
 To sum it up "Every expert was once a beginner."
